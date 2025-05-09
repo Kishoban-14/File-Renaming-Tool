@@ -1,6 +1,5 @@
 📂  File-Renaming-Tool
-A simple and interactive Python utility to rename and move files using structured tags like week, location, and phrase. Originally built for freelance at Aysr Media.
-
+- A simple and interactive Python utility to rename and move files using structured tags like week, location, and phrase. Originally built for freelance at Aysr Media.
 
 🧰 Features
 - Rename files with a custom naming scheme: "Week-Location-Phrase.ext"
